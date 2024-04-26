@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NLP, Transformers, GenAI**
 
-- 📝 I regularly write articles on [anshugiramkar2003](anshugiramkar2003)
+- 📝 I regularly write articles on [anshugiramkar2003](https://medium.com/@anshugiramkar2003)
 
 - 💬 Ask me about **Gen-ai, Transformers, ReactJs, java**
 
